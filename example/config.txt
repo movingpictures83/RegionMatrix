@@ -1,0 +1,2 @@
+Prefix plugins/RegionMatrix/example/
+Plugin RegionMatrix inputfile AMY/ outputfile regionmatrix
